@@ -2,8 +2,9 @@
 
 Команда правоведов, юристов, адвокатов, арбитражных управляющих и других доверенных представителей
 
-- Premium subscription for attorneys.
-- Access to legal advice for consumers
+- Legal services
+  - Premium subscription for attorneys
+  - Access to legal advice for consumers
 
 ## Область покрытия:
 - Россия (дистанционно, коммандировки)
